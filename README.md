@@ -73,10 +73,3 @@ This dashboard addresses the following key questions:
 - **Sales YoY %:**  
   Measures **year-over-year sales growth** to evaluate performance momentum.  
   *Formula Concept:* `((Sales Current Year - Sales Previous Year) / Sales Previous Year) * 100`
-
----
-
-## How to Use This Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
