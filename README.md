@@ -5,19 +5,18 @@ The **Strategic Superstore Sales & Profitability Dashboard** is designed to empo
 
 ---
 
-## Live Dashboard / Screenshots
+## Dashboard Screenshots
 Below are the key views from the Power BI dashboard:  
 
-### 1. Market Analysis
-![Market Analysis](MarketAnalysis.png)
-
-### 2. Superstore Overview
+### 1. Superstore Overview
 ![Superstore Overview](Overview.png)
+
+### 2. Market Analysis
+![Market Analysis](MarketAnalysis.png)
 
 ### 3. Product Analysis
 ![Product Analysis](ProductAnalysis.png)
 
-*Tip: Replace with a [Power BI Service link](https://app.powerbi.com/) if publishing online.*
 
 ---
 
